@@ -1,4 +1,4 @@
-<img width="876" alt="image" src="https://github.com/Lidde9/Final-Project-Web-App-ML-Model/assets/127693321/a328e1c6-fdc5-4bb1-adc3-d8f64310bd68">
+<img width="1006" alt="image" src="https://github.com/Lidde9/Final-Project-Web-App-ML-Model/assets/127693321/a2518ea1-8c40-4563-ae90-c515fe8f4f53">
 
 # Final-Project-Web-App-ML-Model
 Deploying machine learning models on a web application (Python, Sci-kit Learn/sklearn, Gradio, OpenAI, Pandas, Numpy, Matplotlib, seaborn, joblib)
