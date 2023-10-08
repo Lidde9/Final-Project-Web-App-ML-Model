@@ -1,7 +1,7 @@
 <img width="1006" alt="image" src="https://github.com/Lidde9/Final-Project-Web-App-ML-Model/assets/127693321/a2518ea1-8c40-4563-ae90-c515fe8f4f53">
 
 # Final-Project-Web-App-ML-Model
-Deploying machine learning models on a web application (Python, Sci-kit Learn/sklearn, Gradio, OpenAI, Pandas, Numpy, Matplotlib, seaborn, joblib)
+Tech and libraries used : Python, Sci-kit Learn/sklearn, Gradio, OpenAI, Pandas, Numpy, Matplotlib, seaborn, joblib
 
 This is the final project for Nod Coding Bootcamp. The goal of the project is to predict what skin disease a person has based on visual inspection of the skin (12 questions) or another 22 skin attributes from skin samples (microscopic evaluation). The model (ML Classification) diagnoses you with one out of 6 skin diseases based on your input. The model is trained on a data of 366 patients which all had one of these skin diseases.
 
